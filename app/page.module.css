@@ -24,7 +24,7 @@
 }
 .span-2 {
   position: absolute;
-  bottom: 0;
+  bottom: 0rem;
   left: 20%;
-  height: 4rem;
+  height: 10rem;
 }
