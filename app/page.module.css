@@ -12,7 +12,7 @@
 }
 .span {
   top: 0rem;
-  left: 20%;
+  left: 0%;
   height: 4rem;
   position: absolute;
 }
@@ -25,6 +25,6 @@
 .span-2 {
   position: absolute;
   bottom: 0rem;
-  left: 20%;
+  left: 0%;
   height: 10.5rem;
 }
